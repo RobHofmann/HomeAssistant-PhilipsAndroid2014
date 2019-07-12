@@ -1,0 +1,8 @@
+# Optional: Enable info logging for the TV Component
+logger:
+  default: error
+  logs:
+    custom_components.philips_2014: debug
+    custom_components.philips_2014.media_player: debug
+
+media_player: !include mediaplayers.yaml

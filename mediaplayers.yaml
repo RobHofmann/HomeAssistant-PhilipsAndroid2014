@@ -1,0 +1,4 @@
+- platform: philips_2014
+  name: My Philips TV
+  host: <ip of your TV>
+  mac: <mac address of your TV>
