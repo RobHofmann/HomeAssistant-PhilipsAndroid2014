@@ -1,6 +1,7 @@
 # HomeAssistant-PhilipsAndroid2014
 Custom component for Philips TV's running Android which are built between 2014 and 2016. Written in Python3 for Home Assistant.
-NOTE: Credits fully go to SirGilbot which made this modification based on the original Philips HASS component.
+NOTE: Credits fully go to SirGilbot which made this modification based on the original Philips HASS component. I've contacted him and am awaiting his reply.
+I will probably be adding features in the future.
 
 I'll be trying to get this module available through HACS for easy installation.
 
