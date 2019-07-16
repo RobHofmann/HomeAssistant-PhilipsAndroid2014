@@ -3,8 +3,6 @@ Custom component for Philips TV's running Android which are built between 2014 a
 NOTE: Credits fully go to SirGilbot which made this modification based on the original Philips HASS component. I've contacted him and am awaiting his reply.
 I will probably be adding features in the future.
 
-I'll be trying to get this module available through HACS for easy installation.
-
 Tested on:
 * Philips 55PUS9109/12 (2014)
 * Home-Assistant 
@@ -16,7 +14,7 @@ Tested on:
  - https://community.home-assistant.io/t/philips-android-tv-component/17749/62 (CREDITS GO 100% TO THIS GUY)
  
 ## HACS
-This component will be submitted to be added to HACS asap.
+This component is added to HACS default repository list.
 
 ## Custom Component Installation
 !!! PLEASE NOTE !!!: Don't use this method if you are using HACS.
