@@ -1,6 +1,7 @@
 {
   "domain": "philips_2014",
   "name": "Philips TV 2014-2016",
+  "version": "1.0.0",
   "documentation": "https://github.com/RobHofmann/HomeAssistant-PhilipsAndroid2014",
   "dependencies": [],
   "codeowners": ["@SirGilbot", "@robhofmann"],
